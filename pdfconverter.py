@@ -1,4 +1,4 @@
-from cStringIO import StringIO
+from io import StringIO
 from pdfminer.pdfinterp import PDFResourceManager, PDFPageInterpreter
 from pdfminer.converter import TextConverter
 from pdfminer.layout import LAParams
@@ -18,7 +18,7 @@ def convert(fname, pages=None):
     converter = TextConverter(manager, output, laparams=LAParams())
     interpreter = PDFPageInterpreter(manager, converter)
 
-    infile = file(fname, 'rb')
+    infile = open(fname, 'rb')
     for page in PDFPage.get_pages(infile, pagenums):
         interpreter.process_page(page)
     infile.close()
@@ -39,6 +39,6 @@ def convertMultiple(pdfDir, txtDir):
             textFile.write(text) #write text to text file
 			#textFile.close
 
-pdfDir = "C:/python27/pdftotxt/pdf/"
-txtDir = "C:/python27/pdftotxt/txt/"
+pdfDir = "Sample_Invoices/"
+txtDir = "text_format/"
 convertMultiple(pdfDir, txtDir)

@@ -1,0 +1,562 @@
+1120 VERMONT AVENUE ASSOCIATES, LLP
+
+UTILITIES REIMBURSEMENT
+
+Amerihealth - 2nd Floor
+
+Attention:
+Billing Address:
+
+Accountspayable@amerihealthcaritas.com
+AmeriHealth
+200 Stevens Drive
+Philadelphia, PA 19113
+
+Service Period:
+
+April 30, 2018 to May 29, 2018  (30 Days)
+
+Invoice Date:
+Invoice:
+Purchase Order:
+
+6/12/2018
+
+5568
+17816
+
+ELECTRIC USAGE
+
+Meter Number
+SM #0201
+
+ at 2nd fl North Mech Room
+
+SM #0202
+
+ at 2nd fl North Mech Room
+
+SM #0206
+
+ at 
+
+0
+
+Read Type
+Actual
+
+Actual
+
+Actual
+Actual
+
+1
+
+3
+
+4
+
+6
+
+Meter Reading
+
+Present
+497649
+
+434313
+
+703329
+
+0
+
+-
+
+-
+
+-
+-
+
+Previous
+497625
+
+434122
+
+687513
+
+0
+
+=
+Demand
+=
+Demand
+=
+=
+Demand
+
+Multiplier
+
+KWH Used
+
+Blended $/KWH
+
+1
+1
+1
+1
+1
+1
+1
+
+24
+1
+191
+0.7
+15816
+21.5
+0
+
+=
+x
+=
+x
+=
+x
+=
+x
+=
+x
+x
+=
+=
+x
+Total KWH Billed:
+Total Distribution Charged:
+
+24
+1
+191
+0.7
+15816
+21.5
+0
+16,031
+23.200
+
+11.470001
+
+11.470001
+
+x 0.097958122 =
+x
+=
+x 0.097958122 =
+x
+=
+x 0.097958122 =
+x
+=
+x 0.097958122 =
+Non-Residential-GT:
+Maximum Demand:
+
+11.470001
+
+Amount
+$2.35
+$11.47
+$18.71
+$8.03
+
+$1,549.31
+$246.61
+$0.00
+$1,570.37
+$266.10
+
+EMERGENCY GENERATOR FUEL USAGE
+
+Meter Reading
+
+Sales tax at 0.0575 on utility bills:
+SUB-TOTAL FOR ELECTRICAL COSTS:
+
+$105.60
+$1,942.07
+
+Meter Number
+#4369148
+
+1
+
+Present
+815
+
+-
+
+Previous
+815
+
+Gallons
+
+Multiplier
+
+Consumption
+
+0
+
+=
+
+=
+Sales tax at 0.0575 on utility bills:
+SUB-TOTAL FOR EMERGENCY GENERATOR FUEL COSTS:
+
+=
+
+x
+
+x
+
+1
+
+0
+
+Rate
+$2.76
+
+COOLING SYSTEM CONDENSER WATER USAGE
+
+Unit Number
+
+2.1
+2.5
+2.9
+
+1
+
+2
+
+4
+
+Model Number
+CCH-042
+
+WCMS.1.024
+
+CCH-024
+
+Install Date
+07/23/03
+07/23/03
+01/01/14
+
+Usage Type
+Standby 
+24 Hour
+24 Hour
+
+Unit BTU's
+42,000
+24,000
+60,000
+
+/
+/
+/
+
+BTU Tonnage
+
+Connected Ton
+
+12,000
+12,000
+12,000
+
+=
+=
+=
+
+3.500
+2.000
+5.000
+
+x
+x
+x
+
+Per lease annual fee of 
+CSCW x connected ton 
+
+/ 12 months*
+$63.93
+$63.93
+$63.93
+
+=
+=
+=
+
+Amount
+$0.00
+$0.00
+$0.00
+
+Amount
+$61.73
+$35.27
+$319.65
+
+*24 Hour unit utility costs: $740.71, Lease Hour unit utility costs: $194.7, $26.49 for maintenance and repairs to the 24-hour central plant system; per connected ton
+
+BUILDING SERVICE FEES
+
+(4-12000.00 ::: 152.19375)
+( ::: 7.015)
+(')
+
+40000 
+
+20000 
+
+0 
+
+Usage History 
+
+ 
+
+2
+6
+6
+3
+1
+y
+a
+M
+
+ 
+
+ 
+
+5
+8
+7
+1
+1
+ 
+e
+n
+u
+J
+
+ 
+
+5
+6
+9
+3
+1
+y
+l
+u
+J
+
+ 
+
+Total Connected Tonnage:
+Cost Per Ton, Common Equipment PM:
+
+10.500
+2.208
+
+Total Energy Costs:
+Total C.E. PM Costs:
+
+$393.47
+$23.18
+
+SUB-TOTAL FOR CONDENSER WATER COSTS:
+
+$416.65
+
+..
+Sales tax at 0.0575 on building services:
+
+$122.00
+$0.00
+$7.02
+
+NET CURRENT REIMBURSEMENT:
+
+$2,487.73
+
+ 
+
+2
+7
+9
+5
+1
+
+ 
+t
+s
+u
+g
+u
+A
+
+ 
+
+2
+4
+7
+4
+1
+
+b
+m
+e
+t
+p
+e
+S
+
+ 
+r
+e
+
+ 
+
+8
+0
+5
+4
+1
+ 
+r
+e
+b
+o
+t
+c
+O
+
+ 
+
+7
+3
+0
+4
+1
+
+b
+m
+e
+v
+o
+N
+
+ 
+r
+e
+
+ 
+
+3
+4
+9
+9
+1
+
+e
+b
+m
+e
+c
+e
+D
+
+ 
+r
+
+ 
+
+ 
+
+2
+8
+6
+5
+y
+r
+a
+u
+n
+a
+J
+
+ 
+
+9
+1
+6
+0
+2
+
+ 
+
+y
+r
+a
+u
+r
+b
+e
+F
+
+ 
+
+5
+9
+2
+8
+h
+c
+r
+a
+
+ 
+
+M
+
+ 
+
+4
+6
+9
+1
+1
+ 
+l
+i
+r
+p
+A
+
+ 
+
+1
+3
+0
+6
+1
+
+ 
+
+y
+a
+M
+
+page 1 of 1
+4-02 Amerihealth Utility Reimbursement.xls
+
+
